@@ -7,7 +7,9 @@
 
     
 
-     <ListView ItemsSource="{Binding Contacts}" RowHeight="100" >
+     <ListView ItemsSource="{Binding Contacts}"
+               SelectedItem="{Binding SeleccionActual}"
+               RowHeight="100" >
 
       <ListView.ItemTemplate>
           <DataTemplate>

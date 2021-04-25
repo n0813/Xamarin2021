@@ -8,14 +8,32 @@ using FwFreshMVVM.Models;
 
 namespace FwFreshMVVM.ViewModels
 {
-    public class MainViewModel: FreshBasePageModel
+    public class MainViewModel : FreshBasePageModel
     {
+        private Contact seleccionActual;
+
+        #region Variables_Propiedades
+
         //propiedad de modelo
         public ObservableCollection<Contact> Contacts { get; set; } =
             new ObservableCollection<Contact>();
 
-       
+        public Contact SeleccionActual
+        {
+            get => seleccionActual;
+            set
+            {
+                seleccionActual = value;
+                //tiene sobrecarga para pasar informacion
+                //realizamos un push para agregar a la pila
+                //si se desea salir usamos un popPageModel
+                CoreMethods.PushPageModel<ContactDetalleViewModel>(value);
+            }
+        }
 
+        #endregion
+
+        //metodo init es como el constructor de la clase aqui se puede cargar las llamadas a web api
         public async override void Init(object initData)
         {
             Contacts = await GetData();

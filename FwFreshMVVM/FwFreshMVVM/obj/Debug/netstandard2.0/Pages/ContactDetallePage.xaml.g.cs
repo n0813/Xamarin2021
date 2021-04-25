@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("FwFreshMVVM.Pages.ContactDetails.xaml", "Pages/ContactDetails.xaml", typeof(global::FwFreshMVVM.Pages.ContactDetails))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("FwFreshMVVM.Pages.ContactDetallePage.xaml", "Pages/ContactDetallePage.xaml", typeof(global::FwFreshMVVM.Pages.ContactDetallePage))]
 
 namespace FwFreshMVVM.Pages {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Pages/ContactDetails.xaml")]
-    public partial class ContactDetails : global::Xamarin.Forms.ContentPage {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Pages/ContactDetallePage.xaml")]
+    public partial class ContactDetallePage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ContactDetails));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ContactDetallePage));
         }
     }
 }
