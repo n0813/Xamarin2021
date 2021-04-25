@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{4758C033-33D0-441A-95C6-C45F9A77E70C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FwFreshMVVM/ViewModels/MainViewModel.cs">
+    <Files>
+      <File FileName="FwFreshMVVM/Pages/MainPage.xaml" Line="59" Column="15" />
+      <File FileName="FwFreshMVVM/Pages/MainPage.xaml.cs" Line="9" Column="28" />
+      <File FileName="FwFreshMVVM/App.xaml.cs" Line="23" Column="58" />
+      <File FileName="FwFreshMVVM/ViewModels/MainViewModels.cs" Line="31" Column="1" />
+      <File FileName="FwFreshMVVM.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FwFreshMVVM" expanded="True">
+            <Node name="FwFreshMVVM" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="MainViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="FwFreshMVVM.Android" expanded="True" />
+            <Node name="FwFreshMVVM.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FwFreshMVVM.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CB6BA281-8ADC-4332-88AF-B95F10C6797D" />
+  <MonoDevelop.Ide.ItemProperties.FwFreshMVVM.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

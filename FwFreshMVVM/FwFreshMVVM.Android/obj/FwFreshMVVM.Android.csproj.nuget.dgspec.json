@@ -1,0 +1,135 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM.Android/FwFreshMVVM.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM.Android/FwFreshMVVM.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM.Android/FwFreshMVVM.Android.csproj",
+        "projectName": "FwFreshMVVM.Android",
+        "projectPath": "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM.Android/FwFreshMVVM.Android.csproj",
+        "packagesPath": "/Users/nando/.nuget/packages/",
+        "outputPath": "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/nando/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {
+              "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/FwFreshMVVM.csproj": {
+                "projectPath": "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/FwFreshMVVM.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[7.1.0.483, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/FwFreshMVVM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/FwFreshMVVM.csproj",
+        "projectName": "FwFreshMVVM",
+        "projectPath": "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/FwFreshMVVM.csproj",
+        "packagesPath": "/Users/nando/.nuget/packages/",
+        "outputPath": "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nando/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[7.1.0.483, )"
+            },
+            "Bogus": {
+              "target": "Package",
+              "version": "[33.0.2, )"
+            },
+            "FreshMvvm": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[2.5.13, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{069EBF6E-8703-419A-9FEE-AA029A5DBE4C}|Default">
+  <MonoDevelop.Ide.ItemProperties.FramewFreshMV.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FramewFreshMV/Models/Contact.cs">
+    <Files>
+      <File FileName="FramewFreshMV/App.xaml.cs" Line="17" Column="12" />
+      <File FileName="FramewFreshMV/ViewModels/MainViewModel.cs" Line="34" Column="10" />
+      <File FileName="FramewFreshMV/Pages/MainPage.xaml" Line="7" Column="1" />
+      <File FileName="FramewFreshMV/Pages/MainPage.xaml.cs" Line="14" Column="15" />
+      <File FileName="FramewFreshMV/Models/Contact.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FramewFreshMV" expanded="True">
+            <Node name="FramewFreshMV" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Contact.cs" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FramewFreshMV.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

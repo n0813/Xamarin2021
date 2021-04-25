@@ -1,0 +1,15 @@
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/bin/Debug/netstandard2.0/FwFreshMVVM.deps.json
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/bin/Debug/netstandard2.0/FwFreshMVVM.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/bin/Debug/netstandard2.0/ref/FwFreshMVVM.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/bin/Debug/netstandard2.0/FwFreshMVVM.pdb
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/FwFreshMVVM.csprojAssemblyReference.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/FwFreshMVVM.AssemblyInfoInputs.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/FwFreshMVVM.AssemblyInfo.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/FwFreshMVVM.csproj.CoreCompileInputs.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/FwFreshMVVM.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/ref/FwFreshMVVM.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/FwFreshMVVM.pdb
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/Pages/MainPage.xaml.g.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/Pages/ContactDetails.xaml.g.cs

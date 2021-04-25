@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHiL0CiZZ1R9WdYgaP5HHQI9EaZtlrU9QOrSBBZUVyxAMgdRYn7lRaMVxSsKu7JBazO2cJlXik7ilwkA5ZU9fA==",
+  "success": true,
+  "projectFilePath": "/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM.iOS/FwFreshMVVM.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/nando/.nuget/packages/acr.userdialogs/7.1.0.483/acr.userdialogs.7.1.0.483.nupkg.sha512",
+    "/Users/nando/.nuget/packages/bogus/33.0.2/bogus.33.0.2.nupkg.sha512",
+    "/Users/nando/.nuget/packages/btprogresshud/1.3.1/btprogresshud.1.3.1.nupkg.sha512",
+    "/Users/nando/.nuget/packages/fody/3.2.9/fody.3.2.9.nupkg.sha512",
+    "/Users/nando/.nuget/packages/freshmvvm/3.0.0/freshmvvm.3.0.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/propertychanged.fody/2.5.13/propertychanged.fody.2.5.13.nupkg.sha512",
+    "/Users/nando/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/system.reactive/4.0.0/system.reactive.4.0.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/system.runtime.interopservices.windowsruntime/4.3.0/system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/nando/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

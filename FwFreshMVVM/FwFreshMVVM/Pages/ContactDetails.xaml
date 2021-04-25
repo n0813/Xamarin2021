@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="FwFreshMVVM.Pages.ContactDetails">
+
+    <StackLayout Spacing="0">
+
+      <Grid >
+            <Image Source="profile.png" HeightRequest="300"
+                   Aspect="AspectFill"/>
+
+      </Grid>
+
+
+        <Grid HeightRequest="100" BackgroundColor="WhiteSmoke">
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <Label Text="Fernando Camarillo" FontAttributes="Bold" Grid.Row="0"
+                   VerticalOptions="Center" FontSize="Large" Margin="20,0,0,0"/>
+
+            <Label Text="Desarrollador" Grid.Row="1" Margin="20,0,0,0" VerticalOptions="Start"  />
+
+
+        </Grid>
+
+        <Grid HeightRequest="100">
+
+            <Label Text="(512) 8712 33 88" VerticalOptions="Center"
+                   FontAttributes="Bold" FontSize="Large" Margin="20,0,0,0" />
+
+        </Grid>
+
+
+    </StackLayout>
+
+
+</ContentPage>
