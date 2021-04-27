@@ -3,11 +3,10 @@
     <Files>
       <File FileName="FwFreshMVVM/Pages/ContactDetallePage.xaml" Line="34" Column="48" />
       <File FileName="FwFreshMVVM/Pages/ContactDetallePage.xaml.cs" />
-      <File FileName="FwFreshMVVM/App.xaml.cs" Line="17" Column="13" />
+      <File FileName="FwFreshMVVM/App.xaml.cs" Line="19" Column="40" />
       <File FileName="FwFreshMVVM/Pages/AboutPage.xaml" Line="7" Column="38" />
       <File FileName="FwFreshMVVM/Pages/AboutPage.xaml.cs" Line="15" Column="2" />
-      <File FileName="FwFreshMVVM/ViewModels/AboutViewModel.cs" Line="10" Column="10" />
-      <File FileName="FwFreshMVVM.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="FwFreshMVVM/ViewModels/AboutViewModel.cs" Line="6" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

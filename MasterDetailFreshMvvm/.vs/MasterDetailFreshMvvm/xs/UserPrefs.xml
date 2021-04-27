@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2DFD5175-47B9-41DF-ADCF-A99A118D8DAB}|Default">
+  <MonoDevelop.Ide.ItemProperties.MasterDetailFreshMvvm.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CB6BA281-8ADC-4332-88AF-B95F10C6797D" />
+  <MonoDevelop.Ide.ItemProperties.MasterDetailFreshMvvm.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetailFreshMvvm/Pages/ContactsPage.xaml">
+    <Files>
+      <File FileName="MasterDetailFreshMvvm/ViewModels/AboutViewModel.cs" Line="6" Column="53" />
+      <File FileName="MasterDetailFreshMvvm/App.xaml.cs" Line="26" Column="10" />
+      <File FileName="MasterDetailFreshMvvm/Pages/AboutPage.xaml" Line="5" Column="69" />
+      <File FileName="MasterDetailFreshMvvm/Pages/ContactsPage.xaml" Line="5" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MasterDetailFreshMvvm" expanded="True">
+            <Node name="MasterDetailFreshMvvm" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="ContactsPage.xaml" selected="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

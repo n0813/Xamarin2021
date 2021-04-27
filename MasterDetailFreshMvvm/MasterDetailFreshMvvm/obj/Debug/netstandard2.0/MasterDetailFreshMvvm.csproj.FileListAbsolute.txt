@@ -1,0 +1,16 @@
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/bin/Debug/netstandard2.0/MasterDetailFreshMvvm.deps.json
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/bin/Debug/netstandard2.0/MasterDetailFreshMvvm.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/bin/Debug/netstandard2.0/ref/MasterDetailFreshMvvm.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/bin/Debug/netstandard2.0/MasterDetailFreshMvvm.pdb
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/MasterDetailFreshMvvm.csprojAssemblyReference.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/Pages/AboutPage.xaml.g.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/Pages/ContactsPage.xaml.g.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/MasterDetailFreshMvvm.AssemblyInfoInputs.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/MasterDetailFreshMvvm.AssemblyInfo.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/MasterDetailFreshMvvm.csproj.CoreCompileInputs.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/MasterDetailFreshMvvm.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/ref/MasterDetailFreshMvvm.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/MasterDetailFreshMvvm.pdb

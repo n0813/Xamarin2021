@@ -12,9 +12,9 @@ namespace FwFreshMVVM
         {
             InitializeComponent();
 
-            var initialPage = FreshPageModelResolver.ResolvePageModel<MainViewModel>();
+            //var initialPage = FreshPageModelResolver.ResolvePageModel<MainViewModel>();
 
-             MainPage = new FreshNavigationContainer(initialPage);
+            // MainPage = new FreshNavigationContainer(initialPage);
 
             /* Para empezar el freshMVVM
                Descargar primero el noguts FreshMVVM, si se desea bajar bogus

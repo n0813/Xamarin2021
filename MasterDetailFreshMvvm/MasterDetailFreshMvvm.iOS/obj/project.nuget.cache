@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "32mRiWBgBWZv9k8Z8AbCdelV+Eiv0Ig3Aeq+vYIAh0rTIKNSspD/g+ubNgtKbrAMZ87ZN3Sx48uUO8XbV+IMbw==",
+  "success": true,
+  "projectFilePath": "/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm.iOS/MasterDetailFreshMvvm.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/nando/.nuget/packages/freshmvvm/3.0.0/freshmvvm.3.0.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/system.reactive/4.0.0/system.reactive.4.0.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/system.runtime.interopservices.windowsruntime/4.3.0/system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/nando/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
