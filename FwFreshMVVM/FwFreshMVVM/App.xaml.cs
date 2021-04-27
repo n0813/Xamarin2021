@@ -14,7 +14,7 @@ namespace FwFreshMVVM
 
             var initialPage = FreshPageModelResolver.ResolvePageModel<MainViewModel>();
 
-            MainPage = new FreshNavigationContainer(initialPage);
+             MainPage = new FreshNavigationContainer(initialPage);
 
             /* Para empezar el freshMVVM
                Descargar primero el noguts FreshMVVM, si se desea bajar bogus
@@ -25,6 +25,18 @@ namespace FwFreshMVVM
                y se agrega un xml llamado FodyWeavers.xml
 
             */
+
+            var masterDetail = new FreshMasterDetailNavigationContainer();
+
+            masterDetail.AddPage<MainViewModel>("Contacts");
+            masterDetail.AddPage<AboutViewModel>("About");
+            masterDetail.Init("Menu");
+
+            MainPage = masterDetail;
+
+
+
+ 
         }
 
         protected override void OnStart()

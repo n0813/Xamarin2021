@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{4758C033-33D0-441A-95C6-C45F9A77E70C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="FwFreshMVVM/App.xaml.cs">
     <Files>
-      <File FileName="FwFreshMVVM/ViewModels/MainViewModels.cs" Line="30" Column="75" />
-      <File FileName="FwFreshMVVM/ViewModels/ContactDetailsViewModel.cs" Line="9" Column="48" />
       <File FileName="FwFreshMVVM/Pages/ContactDetallePage.xaml" Line="34" Column="48" />
-      <File FileName="FwFreshMVVM/Pages/ContactDetallePage.xaml.cs" Line="8" Column="44" />
-      <File FileName="FwFreshMVVM/App.xaml.cs" Line="17" Column="27" />
+      <File FileName="FwFreshMVVM/Pages/ContactDetallePage.xaml.cs" />
+      <File FileName="FwFreshMVVM/App.xaml.cs" Line="17" Column="13" />
+      <File FileName="FwFreshMVVM/Pages/AboutPage.xaml" Line="7" Column="38" />
+      <File FileName="FwFreshMVVM/Pages/AboutPage.xaml.cs" Line="15" Column="2" />
+      <File FileName="FwFreshMVVM/ViewModels/AboutViewModel.cs" Line="10" Column="10" />
+      <File FileName="FwFreshMVVM.iOS/Main.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,12 +15,14 @@
           <Node name="FwFreshMVVM" expanded="True">
             <Node name="FwFreshMVVM" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="ContactDetailsPage.xaml" expanded="True" />
-                <Node name="ContactDetallePage.xaml" expanded="True" />
+                <Node name="AboutPage.xaml" expanded="True" />
               </Node>
               <Node name="ViewModels" expanded="True" />
-              <Node name="App.xaml.cs" selected="True" />
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
             </Node>
+            <Node name="FwFreshMVVM.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>

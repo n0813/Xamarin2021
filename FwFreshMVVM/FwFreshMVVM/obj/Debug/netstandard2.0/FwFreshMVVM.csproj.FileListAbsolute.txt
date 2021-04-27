@@ -14,3 +14,4 @@
 /Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/Pages/MainPage.xaml.g.cs
 /Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/Pages/ContactDetailsPage.xaml.g.cs
 /Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/Pages/ContactDetallePage.xaml.g.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/FwFreshMVVM/FwFreshMVVM/obj/Debug/netstandard2.0/Pages/AboutPage.xaml.g.cs
