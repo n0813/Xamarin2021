@@ -14,3 +14,4 @@
 /Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/MasterDetailFreshMvvm.dll
 /Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/ref/MasterDetailFreshMvvm.dll
 /Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/MasterDetailFreshMvvm.pdb
+/Users/nando/Desktop/Cursos/Xamarin2021/MasterDetailFreshMvvm/MasterDetailFreshMvvm/obj/Debug/netstandard2.0/Pages/LoginPage.xaml.g.cs

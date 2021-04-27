@@ -14,14 +14,21 @@ namespace MasterDetailFreshMvvm
 
             //MainPage = new MainPage();
 
+            //login
+            var inicio = FreshPageModelResolver
+                .ResolvePageModel<LoginViewModel>();
 
-            var masterDetail = new FreshMasterDetailNavigationContainer();
+            MainPage = new FreshNavigationContainer(inicio); 
 
-            masterDetail.AddPage<ContactsViewModel>("Contacts");
+
+            //master detail
+            //var masterDetail = new FreshMasterDetailNavigationContainer();
+
+            /*masterDetail.AddPage<ContactsViewModel>("Contacts");
             masterDetail.AddPage<AboutViewModel>("About");
             masterDetail.Init("Menu");
 
-            MainPage = masterDetail;
+            MainPage = masterDetail;*/
 
         }
 
