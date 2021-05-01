@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{2DFD5175-47B9-41DF-ADCF-A99A118D8DAB}|Default">
   <MonoDevelop.Ide.ItemProperties.MasterDetailFreshMvvm.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
   <MonoDevelop.Ide.ItemProperties.MasterDetailFreshMvvm.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetailFreshMvvm/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MasterDetailFreshMvvm/ViewModels/LoginViewModel.cs">
     <Files>
-      <File FileName="MasterDetailFreshMvvm/ViewModels/LoginViewModel.cs" Line="8" Column="49" />
-      <File FileName="MasterDetailFreshMvvm/App.xaml.cs" Line="21" Column="62" />
-      <File FileName="MasterDetailFreshMvvm/Servicios/INavigationServices.cs" Line="9" Column="89" />
-      <File FileName="MasterDetailFreshMvvm/Servicios/NavigationService.cs" Line="29" Column="21" />
+      <File FileName="MasterDetailFreshMvvm/ViewModels/LoginViewModel.cs" Line="26" Column="83" />
+      <File FileName="MasterDetailFreshMvvm/App.xaml.cs" Line="41" Column="90" />
+      <File FileName="MasterDetailFreshMvvm/Servicios/NavigationService.cs" />
+      <File FileName="MasterDetailFreshMvvm/Helpers/NavigationHelpers.cs" Line="28" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,14 +14,16 @@
           <Node name="MasterDetailFreshMvvm" expanded="True">
             <Node name="MasterDetailFreshMvvm" expanded="True">
               <Node name="Enums" expanded="True" />
+              <Node name="Helpers" expanded="True" />
               <Node name="Pages" expanded="True">
                 <Node name="LoginPage.xaml" expanded="True" />
               </Node>
               <Node name="Servicios" expanded="True" />
-              <Node name="ViewModels" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="LoginViewModel.cs" selected="True" />
+              </Node>
               <Node name="App.xaml" expanded="True" />
             </Node>
-            <Node name="MasterDetailFreshMvvm.Android" selected="True" />
           </Node>
         </State>
       </Pad>

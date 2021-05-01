@@ -1,5 +1,7 @@
 ﻿using System;
 using FreshMvvm;
+using MasterDetailFreshMvvm.Helpers;
+using MasterDetailFreshMvvm.Servicios;
 using MasterDetailFreshMvvm.ViewModels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -11,6 +13,8 @@ namespace MasterDetailFreshMvvm
         public App()
         {
             InitializeComponent();
+
+            ConfigureContainer();
 
             //MainPage = new MainPage();
 
@@ -31,6 +35,12 @@ namespace MasterDetailFreshMvvm
             MainPage = masterDetail;*/
 
         }
+
+        private void ConfigureContainer()
+        {
+            FreshIOC.Container.Register<INavigationServices>(NavigationHelpers.instance);
+        }
+
 
         protected override void OnStart()
         {
