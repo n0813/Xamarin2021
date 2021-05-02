@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "BvdjplUfjZqPDDAT4HQWW54lgcM1PDzO5i9gXVkMYvLCnr5CFJDBoilvIGL+GFoYtvwkB/yVVOrT1mdjGZ42Aw==",
+  "success": true,
+  "projectFilePath": "/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/loginPanCake.csproj",
+  "expectedPackageFiles": [
+    "/Users/nando/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/nando/.nuget/packages/system.componentmodel/4.3.0/system.componentmodel.4.3.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/nando/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "/Users/nando/.nuget/packages/xamarin.forms.pancakeview/2.3.0.759/xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": []
+}

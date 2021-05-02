@@ -1,0 +1,14 @@
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/bin/Debug/netstandard2.0/NotificacionesPush.deps.json
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/bin/Debug/netstandard2.0/NotificacionesPush.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/bin/Debug/netstandard2.0/ref/NotificacionesPush.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/bin/Debug/netstandard2.0/NotificacionesPush.pdb
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/obj/Debug/netstandard2.0/NotificacionesPush.csprojAssemblyReference.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/obj/Debug/netstandard2.0/NotificacionesPush.AssemblyInfoInputs.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/obj/Debug/netstandard2.0/NotificacionesPush.AssemblyInfo.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/obj/Debug/netstandard2.0/NotificacionesPush.csproj.CoreCompileInputs.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/obj/Debug/netstandard2.0/NotificacionesPush.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/obj/Debug/netstandard2.0/ref/NotificacionesPush.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/obj/Debug/netstandard2.0/NotificacionesPush.pdb

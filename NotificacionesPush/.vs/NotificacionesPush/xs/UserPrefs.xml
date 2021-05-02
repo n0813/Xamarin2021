@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{65D8A5A5-D3CE-4473-925D-F46D5FAF219E}|Default">
+  <MonoDevelop.Ide.ItemProperties.NotificacionesPush.Android AndroidDesignerPreferredTheme="MainTheme" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="NotificacionesPush.Android/NotificacionesPush.Android.csproj" Line="1" Column="1" />
+      <File FileName="NotificacionesPush.Android/MainActivity.cs" Line="21" Column="1" />
+      <File FileName="NotificacionesPush.Android/MyFirebaseMessagingService.cs" Line="19" Column="30" />
+      <File FileName="NotificacionesPush.Android/AndroidNotificationManager.cs" Line="13" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotificacionesPush" expanded="True">
+            <Node name="NotificacionesPush.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="MyFirebaseMessagingService.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NotificacionesPush.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush.Android/MyFirebaseMessagingService.cs" relfile="NotificacionesPush.Android/MyFirebaseMessagingService.cs" line="29" column="1" />
+      <Breakpoint file="/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush.Android/MyFirebaseMessagingService.cs" relfile="NotificacionesPush.Android/MyFirebaseMessagingService.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

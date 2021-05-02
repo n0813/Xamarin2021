@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dEqxd2RWFtwwo8B2Jdyn/SlqPK9Ppq2iwmjRcy2Ma44OdB0EwfqTwiGQE8gAWK8/3Aq7NoYgnb3Pl29FwLS64Q==",
+  "success": true,
+  "projectFilePath": "/Users/nando/Desktop/Cursos/Xamarin2021/NotificacionesPush/NotificacionesPush/NotificacionesPush.csproj",
+  "expectedPackageFiles": [
+    "/Users/nando/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/nando/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/nando/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/nando/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

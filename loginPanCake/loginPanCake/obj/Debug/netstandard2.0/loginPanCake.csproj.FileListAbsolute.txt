@@ -1,0 +1,14 @@
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/bin/Debug/netstandard2.0/loginPanCake.deps.json
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/bin/Debug/netstandard2.0/loginPanCake.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/bin/Debug/netstandard2.0/ref/loginPanCake.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/bin/Debug/netstandard2.0/loginPanCake.pdb
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/loginPanCake.AssemblyInfoInputs.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/loginPanCake.AssemblyInfo.cs
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/loginPanCake.csproj.CoreCompileInputs.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/loginPanCake.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/ref/loginPanCake.dll
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/loginPanCake.pdb
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/loginPanCake.csprojAssemblyReference.cache
