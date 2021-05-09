@@ -12,3 +12,4 @@
 /Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/ref/loginPanCake.dll
 /Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/loginPanCake.pdb
 /Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/loginPanCake.csprojAssemblyReference.cache
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/obj/Debug/netstandard2.0/DetallePage.xaml.g.cs

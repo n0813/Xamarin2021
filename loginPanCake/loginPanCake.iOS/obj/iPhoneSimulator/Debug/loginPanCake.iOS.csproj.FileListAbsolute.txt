@@ -46,14 +46,14 @@
 /Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.PancakeView.dll
 /Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/bin/iPhoneSimulator/Debug/loginPanCake.dll
 /Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/bin/iPhoneSimulator/Debug/loginPanCake.pdb
-/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
-/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
-/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
-/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
-/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
-/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/optimized/
 /Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/loginPanCake.iOS.csprojAssemblyReference.cache
 /Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/loginPanCake.iOS.csproj.CoreCompileInputs.cache
 /Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/loginPanCake.iOS.csproj.CopyComplete
 /Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/loginPanCake.iOS.exe
 /Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/loginPanCake.iOS.pdb
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.5/actool/_PartialAppManifest.items
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.5/actool/_BundleResourceWithLogicalName.items
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.5/ibtool/_BundleResourceWithLogicalName.items
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.5/coremlc/_PartialAppManifest.items
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.5/coremlc/_BundleResourceWithLogicalName.items
+/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.5/optimized/

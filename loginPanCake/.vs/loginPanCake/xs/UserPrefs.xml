@@ -1,15 +1,20 @@
-﻿<Properties StartupConfiguration="{065C204F-F65E-4D93-A872-1E15606AA5DF}|Default">
-  <MonoDevelop.Ide.ItemProperties.loginPanCake.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+﻿<Properties StartupConfiguration="{15F9285E-2ACA-47CA-AF2A-4CBA531AD6B4}|Default">
+  <MonoDevelop.Ide.ItemProperties.loginPanCake.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DCD974ED-1D7E-4C19-A3B4-09E9C5A67F1C" />
   <MonoDevelop.Ide.Workbench ActiveDocument="loginPanCake/MainPage.xaml.cs">
     <Files>
-      <File FileName="loginPanCake/MainPage.xaml" Line="44" Column="44" />
-      <File FileName="loginPanCake/MainPage.xaml.cs" Line="24" Column="1" />
+      <File FileName="loginPanCake/MainPage.xaml" Line="31" Column="56" />
+      <File FileName="loginPanCake/MainPage.xaml.cs" Line="35" Column="9" />
+      <File FileName="loginPanCake/DetallePage.xaml" />
+      <File FileName="loginPanCake/DetallePage.xaml.cs" />
+      <File FileName="loginPanCake/App.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="loginPanCake" expanded="True">
             <Node name="loginPanCake" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="DetallePage.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True">
                 <Node name="MainPage.xaml.cs" selected="True" />
               </Node>

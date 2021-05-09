@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    HeightRequest="30"
+    WidthRequest="40"
+    MinimumHeightRequest="30"
+
+    x:Class="loginPanCake.DetallePage">
+    <ContentPage.Content >
+
+
+        <StackLayout>
+            
+            <Label Text="Detalle"/>
+
+            <Button x:Name="btnRegresar" Text="Regresar"
+                    />
+
+             <Button x:Name="btnInicio" Text="Inicio"
+                    />
+
+
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

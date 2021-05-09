@@ -6,6 +6,8 @@
              ios:Page.UseSafeArea="True"
              Visual="Material"
              BackgroundColor="#636e72"
+             Title="Inicio Sesion"
+             NavigationPage.HasNavigationBar="False"
              x:Class="loginPanCake.MainPage">
 
        <Grid>
@@ -28,7 +30,7 @@
 
             <StackLayout  Margin="40,30" >
 
-                <Label x:Name="lblTitulo" Text="Inicie sesion para entrar" TextColor="#636e72"
+                <Label x:Name="lblTitulo" Text="Inicies sesion para entrar" TextColor="#636e72"
                        TranslationX="300"
                        HorizontalTextAlignment="Center"
                        FontAttributes="Bold" FontSize="Large"/>
@@ -46,6 +48,7 @@
                     <Button Text="Ingresar" BackgroundColor="#0984e3" Margin="0,10"
                             TextColor="WhiteSmoke" x:Name="btnIngresar"
                             Opacity="0"
+                            Clicked="btnIngresar_Clicked"
                             CornerRadius="5"/>
 
                 </StackLayout>
