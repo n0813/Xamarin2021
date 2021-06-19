@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{15F9285E-2ACA-47CA-AF2A-4CBA531AD6B4}|Default">
   <MonoDevelop.Ide.ItemProperties.loginPanCake.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DCD974ED-1D7E-4C19-A3B4-09E9C5A67F1C" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="loginPanCake.iOS/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="loginPanCake/MainPage.xaml.cs">
     <Files>
       <File FileName="loginPanCake/MainPage.xaml" Line="10" Column="53" />
-      <File FileName="loginPanCake/MainPage.xaml.cs" Line="25" Column="1" />
+      <File FileName="loginPanCake/MainPage.xaml.cs" Line="24" Column="9" />
       <File FileName="loginPanCake/DetallePage.xaml" />
       <File FileName="loginPanCake/DetallePage.xaml.cs" />
       <File FileName="loginPanCake/App.xaml.cs" />
@@ -16,11 +16,11 @@
             <Node name="loginPanCake" expanded="True">
               <Node name="App.xaml" expanded="True" />
               <Node name="DetallePage.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
             </Node>
-            <Node name="loginPanCake.iOS" expanded="True">
-              <Node name="Main.cs" selected="True" />
-            </Node>
+            <Node name="loginPanCake.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -30,10 +30,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/MainPage.xaml.cs" relfile="loginPanCake/MainPage.xaml.cs" line="25" column="1" />
-      <Breakpoint file="/Users/nando/Desktop/Cursos/Xamarin2021/loginPanCake/loginPanCake/MainPage.xaml.cs" relfile="loginPanCake/MainPage.xaml.cs" line="27" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
